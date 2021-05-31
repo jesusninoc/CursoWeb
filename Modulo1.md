@@ -9,6 +9,10 @@
 * https://www.jesusninoc.com/05/31/usar-soap-desde-powershell-wsdl/
 * https://www.jesusninoc.com/02/01/look-up-countries-by-ip-address/
 
+## Encabezados
+El método HTTP HEAD solicita los encabezados que se devolverían si la URL de la solicitud HEAD se solicitara con el método HTTP GET. Por ejemplo, si una URL puede producir una descarga grande, una solicitud HEAD podría leer su encabezado Content-Length para verificar sin descargar el archivo.
+* https://www.jesusninoc.com/07/24/head-method-with-powershell/
+
 ## Token
 * https://www.jesusninoc.com/05/04/analizar-la-funcion-autocompletar-de-google-con-fiddler/
 * https://www.jesusninoc.com/11/29/apagar-y-encender-la-bombilla-inteligente-tp-link-kasa-regulable-kl110-desde-powershell/
