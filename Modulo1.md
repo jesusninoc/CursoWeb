@@ -6,6 +6,7 @@
 
 # 2. Servicios Web
 * https://www.jesusninoc.com/02/08/ejercicios-de-php-crear-un-formulario-y-enviar-valores-con-el-metodo-get/
+* https://www.jesusninoc.com/02/01/look-up-countries-by-ip-address/
 
 # 3. Web REST
 * https://www.jesusninoc.com/03/01/crear-un-servidor-web-con-powershell/
@@ -14,6 +15,7 @@
 
 # 4. API
 * https://www.jesusninoc.com/webclient/
+* https://www.jesusninoc.com/02/26/utilizar-sesiones-de-las-aplicaciones-web-en-powershell/
 * https://www.jesusninoc.com/01/14/conocer-la-edad-de-una-persona-mediante-el-reconocimiento-optico-de-caracteres-y-el-analisis-de-imagenes-computer-vision-api-de-microsoft-azure/
 * https://www.jesusninoc.com/01/25/extraer-informacion-de-sitios-web/
 * https://www.jesusninoc.com/start-bitstransfer/
