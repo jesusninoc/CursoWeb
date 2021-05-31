@@ -10,7 +10,10 @@
 * https://www.jesusninoc.com/02/01/look-up-countries-by-ip-address/
 
 ## Token
+* https://www.jesusninoc.com/05/04/analizar-la-funcion-autocompletar-de-google-con-fiddler/
 * https://www.jesusninoc.com/11/29/apagar-y-encender-la-bombilla-inteligente-tp-link-kasa-regulable-kl110-desde-powershell/
+* https://www.jesusninoc.com/02/17/mostrar-el-volumen-diario-de-varias-acciones-del-ibex-35-y-del-mercado-continuo/
+* https://www.jesusninoc.com/02/27/enviar-por-mail-el-precio-la-fecha-la-hora-y-el-volumen-de-varias-acciones-del-ibex-35-en-un-momento-concreto/
 
 # 3. Web REST
 * https://www.jesusninoc.com/03/01/crear-un-servidor-web-con-powershell/
