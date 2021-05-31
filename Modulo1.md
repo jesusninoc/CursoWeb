@@ -9,6 +9,7 @@
 
 # 3. Web REST
 * https://www.jesusninoc.com/03/01/crear-un-servidor-web-con-powershell/
+* https://www.jesusninoc.com/02/27/autenticarse-en-un-router-de-fibra-optica-mitrastar-de-movistar-mediante-el-usuario-y-la-contrasena-con-powershell/
 * https://www.jesusninoc.com/03/08/ver-categorias-de-wordpress-json-api-desde-powershell/
 
 # 4. API
