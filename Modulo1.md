@@ -37,6 +37,8 @@
 * https://www.jesusninoc.com/07/09/cambiar-el-user-agent/
 ### Cabeceras
 * https://www.jesusninoc.com/01/18/subir-un-video-a-azure-video-indexer/
+### Sesiones
+* https://www.jesusninoc.com/02/26/utilizar-sesiones-de-las-aplicaciones-web-en-powershell/
 ### Where
 * https://www.jesusninoc.com/07/10/html-parsing-get-information-from-a-website-bbc-news-2017/
 ### Convertir resultado XML
