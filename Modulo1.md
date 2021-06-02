@@ -3,6 +3,15 @@
 - Servicios
 - Automatización
 - Mezcla con otras "tecnologías" https://github.com/jesusninoc/Curso/blob/main/Modulo01.md#mezclar-con
+- Otros conceptos que he visto en los scripts pero que no son web:
+  - Importar dll
+  - Crear logs
+  - Convertto-securestring
+  - Colecciones
+  - Try/catch
+  - Objetos
+  - Subir documentos (SharePoint)
+  - Sistema de archivos
 
 # 1. Aplicaciones Web
 
