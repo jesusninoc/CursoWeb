@@ -2,6 +2,7 @@
 - Aplicaciones Web
 - Servicios
 - Automatización
+- Mezcla con otras "tecnologías" https://github.com/jesusninoc/Curso/blob/main/Modulo01.md#mezclar-con
 
 # 1. Aplicaciones Web
 
@@ -53,6 +54,7 @@
 
 ## - Ejercicios de PowerShell
 - Peticiones con Invoke-WebRequest
+- Fiddler y sesiones de las cotizaciones
 
 # 2. Servicios Web
 
