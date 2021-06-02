@@ -84,7 +84,10 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 ## Ejercicios de PowerShell
 - Leer datos de un sercicio web SOAP
 
-# 3. Web REST
+# 3. REST
+
+## Definiciones
+REST (Transferencia de Estado Representacional). Define la arquitectura usada en una red, usa como base el protocolo HTTP y nos sirve para generar datos y operaciones devolviendo datos en formato JSON o XML. Puesto que usa HTTP como base, todos los objetos se manipulan a través de una URL
 
 ## Introducción
 * https://www.jesusninoc.com/03/01/crear-un-servidor-web-con-powershell/
@@ -99,6 +102,10 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 - Llamar a REST en WordPress
 
 # 4. API
+
+## Definiciones
+Interfaces de programación de aplicaciones. Es una especificación formal de cómo un módulo de software se comunica con otro, es decir, es un conjunto de comandos, funciones y protocolos que permiten a los desarrolladores crear programas específicos para ciertos sistemas sin tener que escribir desde cero todo.
+
 ## Introducción
 * https://www.jesusninoc.com/webclient/
 * https://www.jesusninoc.com/02/26/utilizar-sesiones-de-las-aplicaciones-web-en-powershell/
