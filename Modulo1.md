@@ -13,15 +13,17 @@
   - Subir documentos (SharePoint)
   - Sistema de archivos
 
+-----------
+
 # 1. Aplicaciones Web
 
-## - Introducción
+## Introducción
 * https://www.jesusninoc.com/11/10/realizar-conexiones-tcp-udp-con-powershell/
 * https://www.jesusninoc.com/invoke-webrequest/
 * https://www.jesusninoc.com/wget/
 * https://www.jesusninoc.com/wordpress/
 
-## - HTTP
+## HTTP
 ### Métodos
 * https://www.jesusninoc.com/01/19/metodos-que-se-pueden-utilizar-en-solicitudes-web-en-powershell/
 #### GET
@@ -38,7 +40,7 @@
 ### Autenticación
 * https://www.jesusninoc.com/02/27/autenticarse-en-un-router-de-fibra-optica-mitrastar-de-movistar-mediante-el-usuario-y-la-contrasena-con-powershell/
 
-## - Invoke-WebRequest
+## Invoke-WebRequest
 ### Propiedades
 * https://www.jesusninoc.com/10/07/detectar-si-una-pagina-web-ha-actualizado-el-contenido/
 * https://www.jesusninoc.com/03/03/como-conocer-el-tamano-del-resultado-de-una-peticion-web-desde-powershell/
@@ -58,16 +60,18 @@
 ### Problemas SSL
 * https://www.jesusninoc.com/02/19/invoke-webrequest-anulada-la-solicitud-no-se-puede-crear-un-canal-seguro-ssl-tls/
 
-## - Invoke-RestMethod
+## Invoke-RestMethod
 * https://www.jesusninoc.com/invoke-restmethod/
 
-## - Ejercicios de PowerShell
+## Ejercicios de PowerShell
 - Peticiones con Invoke-WebRequest
 - Fiddler y sesiones de las cotizaciones
 
+-----------
+
 # 2. Servicios Web
 
-## - Introducción
+## Introducción
 * https://www.jesusninoc.com/02/08/ejercicios-de-php-crear-un-formulario-y-enviar-valores-con-el-metodo-get/
 * https://www.jesusninoc.com/05/31/usar-soap-desde-powershell-wsdl/
 * https://www.jesusninoc.com/02/01/look-up-countries-by-ip-address/
@@ -85,31 +89,33 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 * https://www.jesusninoc.com/02/17/mostrar-el-volumen-diario-de-varias-acciones-del-ibex-35-y-del-mercado-continuo/
 * https://www.jesusninoc.com/02/27/enviar-por-mail-el-precio-la-fecha-la-hora-y-el-volumen-de-varias-acciones-del-ibex-35-en-un-momento-concreto/
 
-## - WSDL
+## WSDL
 
-## - SOAP
+## SOAP
 
-## - RDF
+## RDF
 * https://www.jesusninoc.com/12/20/read-meta-information-exiftool/
 
-## - RSS
+## RSS
 * https://www.jesusninoc.com/01/15/ejercicios-de-powershell-leer-un-rss-feed-fuente-rss-de-un-wordpress-y-mostrar-los-titulos-desde-powershell/
 
-## - New-WebServiceProxy
+## New-WebServiceProxy
 * https://www.jesusninoc.com/05/31/usar-soap-desde-powershell-wsdl/
 
-## - Ejercicios
+## Ejercicios
 - Comprender cómo funciona un servicio web
 - Crear un servicio web
 - Crear un servicio web en .NET
   - https://www.c-sharpcorner.com/UploadFile/29d7e0/steps-to-create-a-simple-web-service-and-use-it-in-Asp-Net/
 
-## - Ejercicios de PowerShell
+## Ejercicios de PowerShell
 - Leer datos de un sercicio web SOAP
+
+-----------
 
 # 3. REST
 
-## - Definiciones
+## Definiciones
 - REST (Transferencia de Estado Representacional). Define la arquitectura usada en una red, usa como base el protocolo HTTP y nos sirve para generar datos y operaciones devolviendo datos en formato JSON o XML. Puesto que usa HTTP como base, todos los objetos se manipulan a través de una URL.
 - Rutas y Puntos finales. Una ruta es una URL que puedes asignar a diferentes métodos HTTP, mientras que un punto final es una conexión entre un método HTTP individual y una ruta. /wp-json/ es un ejemplo de una ruta y contiene todos los puntos finales correspondientes.
 - Peticiones. Una instancia de WP_REST_Request. Se utiliza para almacenar y recuperar información para la solicitud actual.
@@ -117,24 +123,26 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 - Esquemas. Muestra una lista de todas las propiedades y parámetros de entrada que la API REST puede aceptar y devolver.
 - Clases de controlador. El lugar donde administras las partes móviles de la API REST.
 
-## - Introducción
+## Introducción
 * https://www.jesusninoc.com/03/01/crear-un-servidor-web-con-powershell/
 * https://www.jesusninoc.com/02/27/autenticarse-en-un-router-de-fibra-optica-mitrastar-de-movistar-mediante-el-usuario-y-la-contrasena-con-powershell/
 * https://www.jesusninoc.com/03/08/ver-categorias-de-wordpress-json-api-desde-powershell/
 
-## - Ejercicios
+## Ejercicios
 - Crear un servicio REST en IIS
   - https://www.c-sharpcorner.com/article/hosting-asp-net-web-api-rest-service-on-iis-10/ 
 
-## - Ejercicios de PowerShell
+## Ejercicios de PowerShell
 - Llamar a REST en WordPress
+
+-----------
 
 # 4. API
 
-## - Definiciones
+## Definiciones
 Interfaces de programación de aplicaciones. Es una especificación formal de cómo un módulo de software se comunica con otro, es decir, es un conjunto de comandos, funciones y protocolos que permiten a los desarrolladores crear programas específicos para ciertos sistemas sin tener que escribir desde cero todo.
 
-## - Introducción
+## Introducción
 * https://www.jesusninoc.com/webclient/
 * https://www.jesusninoc.com/02/26/utilizar-sesiones-de-las-aplicaciones-web-en-powershell/
 * https://www.jesusninoc.com/01/25/extraer-informacion-de-sitios-web/
@@ -143,6 +151,6 @@ Interfaces de programación de aplicaciones. Es una especificación formal de c�
 * https://www.jesusninoc.com/01/14/conocer-la-edad-de-una-persona-mediante-el-reconocimiento-optico-de-caracteres-y-el-analisis-de-imagenes-computer-vision-api-de-microsoft-azure/
 * https://docs.microsoft.com/es-es/azure/cognitive-services/authentication?tabs=powershell
 
-## - Ejercicios de PowerShell
+## Ejercicios de PowerShell
 - Llamada al API de algo
 - Reconocimiento
