@@ -100,6 +100,8 @@
 # 2. Servicios Web
 
 ## Introducción
+* https://www.jesusninoc.com/05/17/mostrar-los-precios-de-la-sesion-del-ibex-35-creando-un-servidor-web-al-que-se-pueda-acceder-desde-cualquier-parte-de-la-red-privada-con-powershell/
+* https://www.jesusninoc.com/06/05/crear-un-servidor-web-con-un-servicio-que-permita-leer-un-codigo-qr-desde-powershell/
 * https://www.jesusninoc.com/02/08/ejercicios-de-php-crear-un-formulario-y-enviar-valores-con-el-metodo-get/
 * https://www.jesusninoc.com/05/31/usar-soap-desde-powershell-wsdl/
 * https://www.jesusninoc.com/02/01/look-up-countries-by-ip-address/
