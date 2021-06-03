@@ -43,6 +43,7 @@
 * https://www.jesusninoc.com/invoke-webrequest/
 * https://www.jesusninoc.com/wget/
 * https://www.jesusninoc.com/wordpress/
+* https://www.jesusninoc.com/06/05/crear-un-servidor-web-con-un-servicio-que-permita-leer-un-codigo-qr-desde-powershell/
 
 ## HTTP
 ### Métodos
@@ -75,6 +76,7 @@
 ### Cabeceras
 * https://www.jesusninoc.com/01/18/subir-un-video-a-azure-video-indexer/
 ### Sesiones
+* https://www.jesusninoc.com/02/14/almacenar-la-posicion-gps-en-una-variable-de-sesion-en-php/
 * https://www.jesusninoc.com/02/26/utilizar-sesiones-de-las-aplicaciones-web-en-powershell/
 ### Where
 * https://www.jesusninoc.com/07/10/html-parsing-get-information-from-a-website-bbc-news-2017/
@@ -115,6 +117,8 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 * https://www.jesusninoc.com/01/30/comprobar-si-un-dominio-responde-y-mostrar-un-mensaje-si-no-responde/
 ### Codificación
 * https://www.jesusninoc.com/07/18/crear-una-web-sencilla-en-chrome-mediante-datos-uris-codificados-en-base64-desde-powershell/
+* https://www.jesusninoc.com/03/07/codificar-una-imagen-en-base64-con-powershell/
+* https://www.jesusninoc.com/05/05/codificar-un-fichero-bmp-en-base64-con-powershell/
 ### Token
 * https://www.jesusninoc.com/05/04/analizar-la-funcion-autocompletar-de-google-con-fiddler/
 * https://www.jesusninoc.com/11/29/apagar-y-encender-la-bombilla-inteligente-tp-link-kasa-regulable-kl110-desde-powershell/
@@ -175,10 +179,12 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 
 ## Ejercicios
 - Crear un servicio REST en IIS
-  - https://www.c-sharpcorner.com/article/hosting-asp-net-web-api-rest-service-on-iis-10/ 
+  - https://www.c-sharpcorner.com/UploadFile/0c1bb2/creating-Asp-Net-web-api-rest-service/ 
+  - https://www.c-sharpcorner.com/article/hosting-asp-net-web-api-rest-service-on-iis-10/
 
 ## Ejercicios de PowerShell
 - Llamar a REST en WordPress
+  - https://www.jesusninoc.com/03/30/ver-categorias-de-wordpress-json-api-desde-powershell-y-mostrar-el-resultado-en-una-tabla-interactiva/
 
 -----------
 
@@ -201,4 +207,3 @@ Interfaces de programación de aplicaciones. Es una especificación formal de c�
   - https://www.jesusninoc.com/03/13/exportar-e-importar-un-objeto-json-que-se-encuentra-en-una-web-desde-powershell/ 
   - https://www.jesusninoc.com/02/07/falcon-heavy-spacex-data-rest-api/
   - https://www.jesusninoc.com/01/14/ejercicios-de-powershell-crear-usuarios-con-nombres-aleatorios-utilizando-un-api-que-devuelve-el-resultado-en-formato-json/
-- Reconocimiento
