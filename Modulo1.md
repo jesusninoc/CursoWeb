@@ -4,6 +4,10 @@
 - Servicios
 - Automatización
   - Posicion del ratón
+  - JavaScript
+    - https://www.jesusninoc.com/03/21/mostrar-una-pagina-web-sencilla-en-internet-explorer/
+    - https://www.jesusninoc.com/03/30/convertir-una-variable-con-contenido-json-en-un-objeto-en-javascript/
+    - https://www.jesusninoc.com/10/15/mediante-un-evento-de-boton-mostrar-la-fecha-y-hora/
   - Gestión de eventos en las ventanas del sistema operativo
     - https://www.jesusninoc.com/02/01/explicacion-sobre-el-uso-de-funciones-que-estan-en-dll-del-sistema-operativo-en-powershell/
 - Mezcla con otras "tecnologías"
