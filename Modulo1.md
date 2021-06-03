@@ -2,6 +2,8 @@
 - Aplicaciones Web
 - Servicios
 - Automatización
+  - Posicion del ratón
+  - Gestión de eventos en las ventanas del sistema operativo
 - Mezcla con otras "tecnologías" https://github.com/jesusninoc/Curso/blob/main/Modulo01.md#mezclar-con
 - Otros conceptos que he visto en los scripts pero que no son web:
   - Importar dll
