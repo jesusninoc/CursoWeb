@@ -126,9 +126,13 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
   * https://www.jesusninoc.com/06/03/crear-un-servicio-web-asp-net-asmx-con-microsoft-visual-studio/
 
 ## Ejercicios de PowerShell
-- Leer datos de un sercicio web SOAP online
+- Realizar petición tipo POST contra servicio Web online
+  * https://www.jesusninoc.com/06/03/realizar-peticion-tipo-post-contra-servicio-web-online/
+- Realizar petición tipo POST contra servicio Web
+  * https://www.jesusninoc.com/06/03/crear-un-servicio-web-asp-net-asmx-con-microsoft-visual-studio-y-despues-realizar-una-peticion-post-desde-powershell/
+- Leer datos de un sercicio Web SOAP online
   * https://www.jesusninoc.com/05/31/usar-soap-desde-powershell-wsdl/
-- Leer datos de un servicio web creado por nosotros
+- Leer datos de un servicio Web creado por nosotros
   * https://www.jesusninoc.com/06/03/crear-un-servicio-web-asp-net-asmx-con-microsoft-visual-studio-y-despues-utilizarlo-desde-powershell-con-new-webserviceproxy/
 
 -----------
