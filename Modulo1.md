@@ -1,4 +1,5 @@
 # 0. Presentación
+- Tres horas por tema (introducción, configuraciones, ejercicios resueltos por mi, tiempo para hacer ejercicios)
 - Aplicaciones Web
 - Servicios
 - Automatización
