@@ -94,6 +94,8 @@
 ## Ejercicios de PowerShell
 - Peticiones con Invoke-WebRequest
 - Fiddler y sesiones de las cotizaciones
+  - https://www.jesusninoc.com/09/27/arrancar-una-aplicacion-remotamente-desde-powershell-teniendo-habilitado-device-portal/
+  - https://www.jesusninoc.com/10/01/listar-el-contenido-de-un-directorio-remotamente-desde-powershell-teniendo-habilitado-device-portal/
 
 -----------
 
