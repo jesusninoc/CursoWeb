@@ -57,6 +57,10 @@
 ### Autenticación
 * https://www.jesusninoc.com/02/27/autenticarse-en-un-router-de-fibra-optica-mitrastar-de-movistar-mediante-el-usuario-y-la-contrasena-con-powershell/
 
+## WebClient
+* https://www.jesusninoc.com/12/09/get-image-for-captcha-session/
+* https://www.jesusninoc.com/12/09/read-news-google-news-reproduced-voice-operating-system/
+
 ## Invoke-WebRequest
 ### Propiedades
 * https://www.jesusninoc.com/10/07/detectar-si-una-pagina-web-ha-actualizado-el-contenido/
@@ -79,6 +83,9 @@
 
 ## Invoke-RestMethod
 * https://www.jesusninoc.com/invoke-restmethod/
+
+## Start-BitsTransfer
+* https://www.jesusninoc.com/05/20/descargar-las-imagenes-de-una-pagina-web/
 
 ## Ejercicios de PowerShell
 - Peticiones con Invoke-WebRequest
