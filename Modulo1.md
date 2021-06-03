@@ -108,10 +108,13 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 - Comprender cómo funciona un servicio web
 - Crear un servicio web
 - Crear un servicio web en .NET
-  - https://www.c-sharpcorner.com/UploadFile/29d7e0/steps-to-create-a-simple-web-service-and-use-it-in-Asp-Net/
+  * https://www.jesusninoc.com/06/03/crear-un-servicio-web-asp-net-asmx-con-microsoft-visual-studio/
 
 ## Ejercicios de PowerShell
-- Leer datos de un sercicio web SOAP
+- Leer datos de un sercicio web SOAP online
+  * https://www.jesusninoc.com/05/31/usar-soap-desde-powershell-wsdl/
+- Leer datos de un servicio web creado por nosotros
+  * https://www.jesusninoc.com/06/03/crear-un-servicio-web-asp-net-asmx-con-microsoft-visual-studio-y-despues-utilizarlo-desde-powershell-con-new-webserviceproxy/
 
 -----------
 
