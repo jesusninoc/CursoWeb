@@ -4,16 +4,30 @@
 - Automatización
   - Posicion del ratón
   - Gestión de eventos en las ventanas del sistema operativo
-- Mezcla con otras "tecnologías" https://github.com/jesusninoc/Curso/blob/main/Modulo01.md#mezclar-con
+    - https://www.jesusninoc.com/02/01/explicacion-sobre-el-uso-de-funciones-que-estan-en-dll-del-sistema-operativo-en-powershell/
+- Mezcla con otras "tecnologías"
+  - https://github.com/jesusninoc/Curso/blob/main/Modulo01.md#mezclar-con
 - Otros conceptos que he visto en los scripts pero que no son web:
-  - Importar dll
+  - OCR
+    - https://www.jesusninoc.com/01/06/resolver-el-captcha-de-amazon/
+  - Crear e importar dll
+    - https://www.jesusninoc.com/11/28/crear-compilar-y-ejecutar-una-dll-con-microsoft-visual-c-que-abre-notepad-desde-powershell/
+  - Ver qué hace una dll
+    - https://www.jesusninoc.com/05/17/funcion-mouse_event-del-archivo-dll-user32-dll/
   - Crear logs
-  - Convertto-securestring
+    - https://www.jesusninoc.com/05/04/escribir-y-ver-un-evento-en-el-registro-de-eventos-de-aplicacion/
+  - ConvertTo-SecureString
+    - https://www.jesusninoc.com/02/19/ejercicios-de-powershell-uso-y-manipulacion-de-credenciales/
   - Colecciones
+    - https://www.jesusninoc.com/08/02/2-programacion-en-powershell-nivel-avanzado/
   - Try/catch
+    - https://www.jesusninoc.com/02/10/tratamiento-de-excepciones-en-powershell/
   - Objetos
+    - https://www.jesusninoc.com/07/02/2-programacion-en-powershell/#Objetos
   - Subir documentos (SharePoint)
+    - https://www.jesusninoc.com/12/05/crear-una-conexion-ssh-y-subir-un-fichero-desde-powershell/
   - Sistema de archivos
+    - https://www.jesusninoc.com/07/04/4-gestion-del-sistema-de-archivos-en-powershell/
 
 -----------
 
