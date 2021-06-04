@@ -149,6 +149,8 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
   * https://www.jesusninoc.com/02/26/convertir-un-fichero-xml-en-json-desde-php-y-utilizarlo-desde-powershell/ 
 - Crear un servicio web en .NET
   * https://www.jesusninoc.com/06/03/crear-un-servicio-web-asp-net-asmx-con-microsoft-visual-studio/
+- Crear un servicio Web ASP.NET (ASMX) con Microsoft Visual Studio, publicarlo en un servidor IIS local
+  * https://www.jesusninoc.com/06/04/crear-un-servicio-web-asp-net-asmx-con-microsoft-visual-studio-publicarlo-en-un-servidor-iis-local-y-despues-utilizarlo-desde-powershell-con-new-webserviceproxy/
 
 ## Ejercicios de PowerShell
 - Realizar petición tipo POST contra servicio Web online
