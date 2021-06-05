@@ -97,6 +97,8 @@
 * https://www.jesusninoc.com/05/20/descargar-las-imagenes-de-una-pagina-web/
 
 ## Ejercicios de PowerShell
+- Crear un servidor Web en PowerShell
+  - https://www.jesusninoc.com/02/15/crear-un-sitio-en-iis-con-powershell/
 - Peticiones con Invoke-WebRequest
 - Fiddler y sesiones de las cotizaciones
   - https://www.jesusninoc.com/09/27/arrancar-una-aplicacion-remotamente-desde-powershell-teniendo-habilitado-device-portal/
