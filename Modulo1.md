@@ -132,22 +132,22 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 * https://www.jesusninoc.com/02/17/mostrar-el-volumen-diario-de-varias-acciones-del-ibex-35-y-del-mercado-continuo/
 * https://www.jesusninoc.com/02/27/enviar-por-mail-el-precio-la-fecha-la-hora-y-el-volumen-de-varias-acciones-del-ibex-35-en-un-momento-concreto/
 
-## WSDL
-- WSDL son las siglas de web service description language o lenguaje de descripción de servicios web. Se trata de un metalenguaje que permite describir los servicios web de manera integral. Un servicio web es, a su vez, un servicio que un servidor proporciona a los clientes a través de Internet (u otra red). Este proceso se lleva a cabo al margen de la plataforma, esto es, entre los sistemas y aplicaciones más diversos. Para que el cliente pueda conocer los procedimientos y posibilidades del servicio web, un archivo WSDL en el servidor web contiene la información que indica al cliente cómo llamar al servicio web.
-- WSDL se basa en el lenguaje XML (extensible markup language) o lenguaje de marcado extensible, así como en el lenguaje XML Schema (XSD). En otras palabras, WSDL utiliza elementos XML.
-
 ## SOAP
 SOAP es un protocolo estándar que define cómo dos objetos en diferentes procesos pueden comunicarse por medio de intercambio de datos XML. Recibe este nombre debido al formato en que representan los mensajes, sigue el estándar SOAP. En SOAP se utiliza el lenguaje XML para definir tanto el protocolo de mensaje como el contenido de estos. La descripción de interfaz de servicios de un servicio web SOAP se realiza usando un lenguaje basado en XML llamado XDSL.
 Un servicio SOAP debe cumplir:
 - Expresar de manera formal la interfaz, se suele hacer en WSDL.
 - La arquitectura del servicio debe ser capaz de soportar la realización y procesamiento de peticiones de forma asíncrona.
 
+## WSDL
+WSDL son las siglas de web service description language o lenguaje de descripción de servicios web. Se trata de un metalenguaje que permite describir los servicios web de manera integral. Un servicio web es, a su vez, un servicio que un servidor proporciona a los clientes a través de Internet (u otra red). Este proceso se lleva a cabo al margen de la plataforma, esto es, entre los sistemas y aplicaciones más diversos. Para que el cliente pueda conocer los procedimientos y posibilidades del servicio web, un archivo WSDL en el servidor web contiene la información que indica al cliente cómo llamar al servicio web.
+WSDL se basa en el lenguaje XML (extensible markup language) o lenguaje de marcado extensible, así como en el lenguaje XML Schema (XSD). En otras palabras, WSDL utiliza elementos XML.
+
 ## RDF
-- El Marco de Descripción de Recursos (del inglés Resource Description Framework, RDF) es una familia de especificaciones de la World Wide Web Consortium (W3C) originalmente diseñado como un modelo de datos para metadatos.
+El Marco de Descripción de Recursos (del inglés Resource Description Framework, RDF) es una familia de especificaciones de la World Wide Web Consortium (W3C) originalmente diseñado como un modelo de datos para metadatos.
 * https://www.jesusninoc.com/12/20/read-meta-information-exiftool/
 
 ## RSS
-- RSS son las siglas de Really Simple Syndication, un formato XML para distribuir contenido en la web.
+RSS son las siglas de Really Simple Syndication, un formato XML para distribuir contenido en la web.
 * https://www.jesusninoc.com/01/15/ejercicios-de-powershell-leer-un-rss-feed-fuente-rss-de-un-wordpress-y-mostrar-los-titulos-desde-powershell/
 
 ## New-WebServiceProxy
@@ -205,10 +205,8 @@ Como alternativa a los servicios basados en SOAP, existe REST. No siguen el est�
 
 # 4. API
 
-## Definiciones
-Interfaces de programación de aplicaciones. Es una especificación formal de cómo un módulo de software se comunica con otro, es decir, es un conjunto de comandos, funciones y protocolos que permiten a los desarrolladores crear programas específicos para ciertos sistemas sin tener que escribir desde cero todo.
-
 ## Introducción
+Interfaces de programación de aplicaciones. Es una especificación formal de cómo un módulo de software se comunica con otro, es decir, es un conjunto de comandos, funciones y protocolos que permiten a los desarrolladores crear programas específicos para ciertos sistemas sin tener que escribir desde cero todo.
 * https://www.jesusninoc.com/webclient/
 * https://www.jesusninoc.com/02/26/utilizar-sesiones-de-las-aplicaciones-web-en-powershell/
 * https://www.jesusninoc.com/01/25/extraer-informacion-de-sitios-web/
