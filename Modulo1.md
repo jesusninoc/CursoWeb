@@ -63,6 +63,7 @@
 * https://www.jesusninoc.com/02/27/autenticarse-en-un-router-de-fibra-optica-mitrastar-de-movistar-mediante-el-usuario-y-la-contrasena-con-powershell/
 
 ## Servidores web
+- Técnicas de comunicación avanzada. Es una aplicación distribuida basada en el modelo de comunicación cliente/servidor que utiliza el protocolo de nivel de aplicación HTTP para la transferencia de mensajes. Los mensajes se encapsulan dentro de peticiones y respuestas HTTP. Cuando un cliente de un servicio web realiza una petición a un servidor, esta se envía en el interior de un mensaje HTTP, como un GET, POST, o similar. Recordemos que el protocolo HTTP utiliza TCP. Existen varios tipos de servicios web, algunos son: servicios web SOAP y servicios web REST.
 * https://www.jesusninoc.com/02/15/crear-un-sitio-en-iis-con-powershell/
 
 ## WebClient
@@ -136,7 +137,10 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 - WSDL se basa en el lenguaje XML (extensible markup language) o lenguaje de marcado extensible, así como en el lenguaje XML Schema (XSD). En otras palabras, WSDL utiliza elementos XML.
 
 ## SOAP
-- SOAP es un protocolo estándar que define cómo dos objetos en diferentes procesos pueden comunicarse por medio de intercambio de datos XML. 
+SOAP es un protocolo estándar que define cómo dos objetos en diferentes procesos pueden comunicarse por medio de intercambio de datos XML. Recibe este nombre debido al formato en que representan los mensajes, sigue el estándar SOAP. En SOAP se utiliza el lenguaje XML para definir tanto el protocolo de mensaje como el contenido de estos. La descripción de interfaz de servicios de un servicio web SOAP se realiza usando un lenguaje basado en XML llamado XDSL.
+Un servicio SOAP debe cumplir:
+- Expresar de manera formal la interfaz, se suele hacer en WSDL.
+- La arquitectura del servicio debe ser capaz de soportar la realización y procesamiento de peticiones de forma asíncrona.
 
 ## RDF
 - El Marco de Descripción de Recursos (del inglés Resource Description Framework, RDF) es una familia de especificaciones de la World Wide Web Consortium (W3C) originalmente diseñado como un modelo de datos para metadatos.
@@ -183,6 +187,7 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 - Clases de controlador. El lugar donde administras las partes móviles de la API REST.
 
 ## Introducción
+Como alternativa a los servicios basados en SOAP, existe REST. No siguen el estándar SOAP y no están forzados a utilizar XML para representar sus mensajes y su interfaz. Se usa REST, un formato más ligero y flexible.
 * https://www.jesusninoc.com/03/01/crear-un-servidor-web-con-powershell/
 * https://www.jesusninoc.com/02/27/autenticarse-en-un-router-de-fibra-optica-mitrastar-de-movistar-mediante-el-usuario-y-la-contrasena-con-powershell/
 * https://www.jesusninoc.com/03/08/ver-categorias-de-wordpress-json-api-desde-powershell/
