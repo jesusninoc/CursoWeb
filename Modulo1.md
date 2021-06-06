@@ -194,7 +194,7 @@ REST (Transferencia de Estado Representacional). Define la arquitectura usada en
 ## Ejercicios
 - Crear un servicio REST en IIS
   - https://www.jesusninoc.com/06/06/crear-un-servicio-web-asp-net-web-api-rest-con-microsoft-visual-studio-y-despues-utilizarlo-desde-powershell/
-  - https://www.c-sharpcorner.com/article/hosting-asp-net-web-api-rest-service-on-iis-10/
+  - https://www.jesusninoc.com/06/06/crear-un-servicio-web-asp-net-web-api-rest-con-microsoft-visual-studio-anadir-varios-metodos-listar-y-eliminar-y-despues-utilizarlo-desde-powershell/
 
 ## Ejercicios de PowerShell
 - Llamar a REST en WordPress
