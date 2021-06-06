@@ -192,7 +192,7 @@ REST (Transferencia de Estado Representacional). Define la arquitectura usada en
 - Clases de controlador. El lugar donde administras las partes móviles de la API REST.
 
 ## Ejercicios
-- Crear un servicio REST en IIS
+- Crear un servicio REST en Visual Studio
   - https://www.jesusninoc.com/06/06/crear-un-servicio-web-asp-net-web-api-rest-con-microsoft-visual-studio-y-despues-utilizarlo-desde-powershell/
   - https://www.jesusninoc.com/06/06/crear-un-servicio-web-asp-net-web-api-rest-con-microsoft-visual-studio-anadir-varios-metodos-listar-y-eliminar-y-despues-utilizarlo-desde-powershell/
 
