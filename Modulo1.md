@@ -43,7 +43,7 @@
 * https://www.jesusninoc.com/invoke-webrequest/
 * https://www.jesusninoc.com/wget/
 * https://www.jesusninoc.com/wordpress/
-* https://www.jesusninoc.com/03/01/crear-un-servidor-web-con-powershell/
+* https://www.jesusninoc.com/06/07/como-funciona-un-servidor-web-explicado-desde-powershell/
 * https://www.jesusninoc.com/06/05/crear-un-servidor-web-con-un-servicio-que-permita-leer-un-codigo-qr-desde-powershell/
 
 ## HTTP
