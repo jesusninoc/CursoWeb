@@ -43,6 +43,7 @@
 * https://www.jesusninoc.com/invoke-webrequest/
 * https://www.jesusninoc.com/wget/
 * https://www.jesusninoc.com/wordpress/
+* https://www.jesusninoc.com/03/01/crear-un-servidor-web-con-powershell/
 * https://www.jesusninoc.com/06/05/crear-un-servidor-web-con-un-servicio-que-permita-leer-un-codigo-qr-desde-powershell/
 
 ## HTTP
@@ -119,6 +120,7 @@ Técnicas de comunicación avanzada. Es una aplicación distribuida basada en el
 ### Encabezados
 El método HTTP HEAD solicita los encabezados que se devolverían si la URL de la solicitud HEAD se solicitara con el método HTTP GET. Por ejemplo, si una URL puede producir una descarga grande, una solicitud HEAD podría leer su encabezado Content-Length para verificar sin descargar el archivo.
 * https://www.jesusninoc.com/07/24/head-method-with-powershell/
+* https://www.jesusninoc.com/02/27/autenticarse-en-un-router-de-fibra-optica-mitrastar-de-movistar-mediante-el-usuario-y-la-contrasena-con-powershell/
 ### Códigos de estado
 Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), no devuelve ningún resultado y arroja un error de terminación. Para detectar el error y ver el StatusCode, puede incluir la ejecución en un bloque try/catch.
 * https://www.jesusninoc.com/01/30/comprobar-si-un-dominio-responde-y-mostrar-un-mensaje-si-no-responde/
@@ -180,8 +182,6 @@ RSS son las siglas de Really Simple Syndication, un formato XML para distribuir 
 
 ## Introducción
 REST (Transferencia de Estado Representacional). Define la arquitectura usada en una red, usa como base el protocolo HTTP y nos sirve para generar datos y operaciones devolviendo datos en formato JSON o XML. Puesto que usa HTTP como base, todos los objetos se manipulan a través de una URL. Como alternativa a los servicios basados en SOAP, existe REST. No siguen el estándar SOAP y no están forzados a utilizar XML para representar sus mensajes y su interfaz. Se usa REST, un formato más ligero y flexible.
-* https://www.jesusninoc.com/03/01/crear-un-servidor-web-con-powershell/
-* https://www.jesusninoc.com/02/27/autenticarse-en-un-router-de-fibra-optica-mitrastar-de-movistar-mediante-el-usuario-y-la-contrasena-con-powershell/
 * https://www.jesusninoc.com/03/08/ver-categorias-de-wordpress-json-api-desde-powershell/
 
 ## Definiciones
