@@ -218,6 +218,7 @@ Interfaces de programación de aplicaciones. Es una especificación formal de c�
 
 ## Ejercicios de PowerShell
 - Llamada al API de algún servicio
-  - https://www.jesusninoc.com/03/13/exportar-e-importar-un-objeto-json-que-se-encuentra-en-una-web-desde-powershell/ 
+  - https://www.jesusninoc.com/03/13/exportar-e-importar-un-objeto-json-que-se-encuentra-en-una-web-desde-powershell/
+  - https://www.jesusninoc.com/rutinas2.html
   - https://www.jesusninoc.com/02/07/falcon-heavy-spacex-data-rest-api/
   - https://www.jesusninoc.com/01/14/ejercicios-de-powershell-crear-usuarios-con-nombres-aleatorios-utilizando-un-api-que-devuelve-el-resultado-en-formato-json/
