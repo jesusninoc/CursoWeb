@@ -46,6 +46,10 @@
 * https://www.jesusninoc.com/06/07/como-funciona-un-servidor-web-explicado-desde-powershell/
 * https://www.jesusninoc.com/06/05/crear-un-servidor-web-con-un-servicio-que-permita-leer-un-codigo-qr-desde-powershell/
 
+## Servidores web
+Técnicas de comunicación avanzada. Es una aplicación distribuida basada en el modelo de comunicación cliente/servidor que utiliza el protocolo de nivel de aplicación HTTP para la transferencia de mensajes. Los mensajes se encapsulan dentro de peticiones y respuestas HTTP. Cuando un cliente de un servicio web realiza una petición a un servidor, esta se envía en el interior de un mensaje HTTP, como un GET, POST, o similar. Recordemos que el protocolo HTTP utiliza TCP. Existen varios tipos de servicios web, algunos son: servicios web SOAP y servicios web REST.
+* https://www.jesusninoc.com/02/15/crear-un-sitio-en-iis-con-powershell/
+
 ## HTTP
 ### Métodos
 * https://www.jesusninoc.com/01/19/metodos-que-se-pueden-utilizar-en-solicitudes-web-en-powershell/
@@ -62,10 +66,22 @@
 "Crear, Leer, Actualizar y Borrar", que se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software.
 ### Autenticación
 * https://www.jesusninoc.com/02/27/autenticarse-en-un-router-de-fibra-optica-mitrastar-de-movistar-mediante-el-usuario-y-la-contrasena-con-powershell/
-
-## Servidores web
-Técnicas de comunicación avanzada. Es una aplicación distribuida basada en el modelo de comunicación cliente/servidor que utiliza el protocolo de nivel de aplicación HTTP para la transferencia de mensajes. Los mensajes se encapsulan dentro de peticiones y respuestas HTTP. Cuando un cliente de un servicio web realiza una petición a un servidor, esta se envía en el interior de un mensaje HTTP, como un GET, POST, o similar. Recordemos que el protocolo HTTP utiliza TCP. Existen varios tipos de servicios web, algunos son: servicios web SOAP y servicios web REST.
-* https://www.jesusninoc.com/02/15/crear-un-sitio-en-iis-con-powershell/
+### Encabezados
+El método HTTP HEAD solicita los encabezados que se devolverían si la URL de la solicitud HEAD se solicitara con el método HTTP GET. Por ejemplo, si una URL puede producir una descarga grande, una solicitud HEAD podría leer su encabezado Content-Length para verificar sin descargar el archivo.
+* https://www.jesusninoc.com/07/24/head-method-with-powershell/
+* https://www.jesusninoc.com/02/27/autenticarse-en-un-router-de-fibra-optica-mitrastar-de-movistar-mediante-el-usuario-y-la-contrasena-con-powershell/
+### Códigos de estado
+Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), no devuelve ningún resultado y arroja un error de terminación. Para detectar el error y ver el StatusCode, puede incluir la ejecución en un bloque try/catch.
+* https://www.jesusninoc.com/01/30/comprobar-si-un-dominio-responde-y-mostrar-un-mensaje-si-no-responde/
+### Codificación
+* https://www.jesusninoc.com/07/18/crear-una-web-sencilla-en-chrome-mediante-datos-uris-codificados-en-base64-desde-powershell/
+* https://www.jesusninoc.com/03/07/codificar-una-imagen-en-base64-con-powershell/
+* https://www.jesusninoc.com/05/05/codificar-un-fichero-bmp-en-base64-con-powershell/
+### Token
+* https://www.jesusninoc.com/05/04/analizar-la-funcion-autocompletar-de-google-con-fiddler/
+* https://www.jesusninoc.com/11/29/apagar-y-encender-la-bombilla-inteligente-tp-link-kasa-regulable-kl110-desde-powershell/
+* https://www.jesusninoc.com/02/17/mostrar-el-volumen-diario-de-varias-acciones-del-ibex-35-y-del-mercado-continuo/
+* https://www.jesusninoc.com/02/27/enviar-por-mail-el-precio-la-fecha-la-hora-y-el-volumen-de-varias-acciones-del-ibex-35-en-un-momento-concreto/
 
 ## WebClient
 * https://www.jesusninoc.com/12/09/get-image-for-captcha-session/
@@ -117,22 +133,6 @@ Técnicas de comunicación avanzada. Es una aplicación distribuida basada en el
 * https://www.jesusninoc.com/02/08/ejercicios-de-php-crear-un-formulario-y-enviar-valores-con-el-metodo-get/
 * https://www.jesusninoc.com/05/31/usar-soap-desde-powershell-wsdl/
 * https://www.jesusninoc.com/02/01/look-up-countries-by-ip-address/
-### Encabezados
-El método HTTP HEAD solicita los encabezados que se devolverían si la URL de la solicitud HEAD se solicitara con el método HTTP GET. Por ejemplo, si una URL puede producir una descarga grande, una solicitud HEAD podría leer su encabezado Content-Length para verificar sin descargar el archivo.
-* https://www.jesusninoc.com/07/24/head-method-with-powershell/
-* https://www.jesusninoc.com/02/27/autenticarse-en-un-router-de-fibra-optica-mitrastar-de-movistar-mediante-el-usuario-y-la-contrasena-con-powershell/
-### Códigos de estado
-Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), no devuelve ningún resultado y arroja un error de terminación. Para detectar el error y ver el StatusCode, puede incluir la ejecución en un bloque try/catch.
-* https://www.jesusninoc.com/01/30/comprobar-si-un-dominio-responde-y-mostrar-un-mensaje-si-no-responde/
-### Codificación
-* https://www.jesusninoc.com/07/18/crear-una-web-sencilla-en-chrome-mediante-datos-uris-codificados-en-base64-desde-powershell/
-* https://www.jesusninoc.com/03/07/codificar-una-imagen-en-base64-con-powershell/
-* https://www.jesusninoc.com/05/05/codificar-un-fichero-bmp-en-base64-con-powershell/
-### Token
-* https://www.jesusninoc.com/05/04/analizar-la-funcion-autocompletar-de-google-con-fiddler/
-* https://www.jesusninoc.com/11/29/apagar-y-encender-la-bombilla-inteligente-tp-link-kasa-regulable-kl110-desde-powershell/
-* https://www.jesusninoc.com/02/17/mostrar-el-volumen-diario-de-varias-acciones-del-ibex-35-y-del-mercado-continuo/
-* https://www.jesusninoc.com/02/27/enviar-por-mail-el-precio-la-fecha-la-hora-y-el-volumen-de-varias-acciones-del-ibex-35-en-un-momento-concreto/
 
 ## SOAP
 SOAP es un protocolo estándar que define cómo dos objetos en diferentes procesos pueden comunicarse por medio de intercambio de datos XML. Recibe este nombre debido al formato en que representan los mensajes, sigue el estándar SOAP. En SOAP se utiliza el lenguaje XML para definir tanto el protocolo de mensaje como el contenido de estos. La descripción de interfaz de servicios de un servicio web SOAP se realiza usando un lenguaje basado en XML llamado XDSL.
