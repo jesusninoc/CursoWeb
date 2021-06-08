@@ -98,6 +98,7 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 * https://www.jesusninoc.com/02/19/invoke-webrequest-anulada-la-solicitud-no-se-puede-crear-un-canal-seguro-ssl-tls/
 
 ## Invoke-RestMethod
+Invoke-RestMethod es básicamente un cmdlet contenedor entorno a Invoke-WebRequest. Invoke-RestMethod realiza una conversión automática. Si la API que está consumiendo devuelve JSON, Invoke-RestMethod devolverá un objeto PowerShell que es el resultado de la conversión JSON.
 * https://www.jesusninoc.com/invoke-restmethod/
 
 ## Start-BitsTransfer
