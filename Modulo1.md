@@ -2,16 +2,6 @@
 - Tres horas por tema (introducción, configuraciones, ejercicios resueltos por mi, tiempo para hacer ejercicios)
 - Aplicaciones Web
 - Servicios
-- Automatización
-  - Posicion del ratón
-  - JavaScript
-    - https://www.jesusninoc.com/03/21/mostrar-una-pagina-web-sencilla-en-internet-explorer/
-    - https://www.jesusninoc.com/03/30/convertir-una-variable-con-contenido-json-en-un-objeto-en-javascript/
-    - https://www.jesusninoc.com/10/15/mediante-un-evento-de-boton-mostrar-la-fecha-y-hora/
-  - Gestión de eventos en las ventanas del sistema operativo
-    - https://www.jesusninoc.com/02/01/explicacion-sobre-el-uso-de-funciones-que-estan-en-dll-del-sistema-operativo-en-powershell/
-- Mezcla con otras "tecnologías"
-  - https://github.com/jesusninoc/Curso/blob/main/Modulo01.md#mezclar-con
 - Otros conceptos que he visto en los scripts pero que no son web:
   - OCR
     - https://www.jesusninoc.com/01/06/resolver-el-captcha-de-amazon/
@@ -143,14 +133,6 @@ Un servicio SOAP debe cumplir:
 ## WSDL
 WSDL son las siglas de web service description language o lenguaje de descripción de servicios web. Se trata de un metalenguaje que permite describir los servicios web de manera integral. Un servicio web es, a su vez, un servicio que un servidor proporciona a los clientes a través de Internet (u otra red). Este proceso se lleva a cabo al margen de la plataforma, esto es, entre los sistemas y aplicaciones más diversos. Para que el cliente pueda conocer los procedimientos y posibilidades del servicio web, un archivo WSDL en el servidor web contiene la información que indica al cliente cómo llamar al servicio web.
 WSDL se basa en el lenguaje XML (extensible markup language) o lenguaje de marcado extensible, así como en el lenguaje XML Schema (XSD). En otras palabras, WSDL utiliza elementos XML.
-
-## RDF
-El Marco de Descripción de Recursos (del inglés Resource Description Framework, RDF) es una familia de especificaciones de la World Wide Web Consortium (W3C) originalmente diseñado como un modelo de datos para metadatos.
-* https://www.jesusninoc.com/12/20/read-meta-information-exiftool/
-
-## RSS
-RSS son las siglas de Really Simple Syndication, un formato XML para distribuir contenido en la web.
-* https://www.jesusninoc.com/01/15/ejercicios-de-powershell-leer-un-rss-feed-fuente-rss-de-un-wordpress-y-mostrar-los-titulos-desde-powershell/
 
 ## New-WebServiceProxy
 * https://www.jesusninoc.com/05/31/usar-soap-desde-powershell-wsdl/
