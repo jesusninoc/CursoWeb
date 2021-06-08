@@ -105,3 +105,4 @@ Invoke-RestMethod es básicamente un cmdlet contenedor entorno a Invoke-WebReque
 * https://www.jesusninoc.com/05/20/descargar-las-imagenes-de-una-pagina-web/
 
 ## Ejercicios de PowerShell (propuestos)
+- Instalar Visual Studio
