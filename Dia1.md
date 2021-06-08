@@ -103,3 +103,5 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 
 ## Start-BitsTransfer
 * https://www.jesusninoc.com/05/20/descargar-las-imagenes-de-una-pagina-web/
+
+## Ejercicios de PowerShell (propuestos)
