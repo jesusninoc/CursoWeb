@@ -6,6 +6,7 @@
   - OCR
     - https://www.jesusninoc.com/01/06/resolver-el-captcha-de-amazon/
   - Crear e importar dll
+    - https://www.jesusninoc.com/06/08/crear-compilar-y-ejecutar-una-dll-con-microsoft-visual-studio-c-y-utilizarla-desde-powershell/
     - https://www.jesusninoc.com/11/28/crear-compilar-y-ejecutar-una-dll-con-microsoft-visual-c-que-abre-notepad-desde-powershell/
   - Ver qué hace una dll
     - https://www.jesusninoc.com/05/17/funcion-mouse_event-del-archivo-dll-user32-dll/
