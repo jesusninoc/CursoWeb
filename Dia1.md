@@ -3,8 +3,9 @@
 - Aplicaciones Web
 - Servicios
 - Otros conceptos que he visto en los scripts pero que no son web:
-  - OCR
+  - OCR (bucle y ver palabras mal escritas)
     - https://www.jesusninoc.com/01/06/resolver-el-captcha-de-amazon/
+    - https://www.jesusninoc.com/06/11/detectar-las-palabras-que-estan-mal-escritas-en-un-texto-con-un-comando-en-linux-y-ejecutarlo-con-wsl-windows-subsystem-for-linux-desde-powershell/
   - Crear e importar dll
     - https://www.jesusninoc.com/06/08/crear-compilar-y-ejecutar-una-dll-con-microsoft-visual-studio-c-y-utilizarla-desde-powershell/
     - https://www.jesusninoc.com/11/28/crear-compilar-y-ejecutar-una-dll-con-microsoft-visual-c-que-abre-notepad-desde-powershell/
