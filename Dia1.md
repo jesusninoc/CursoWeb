@@ -15,6 +15,9 @@
     - https://www.jesusninoc.com/05/17/funcion-mouse_event-del-archivo-dll-user32-dll/
   - Crear logs
     - https://www.jesusninoc.com/05/04/escribir-y-ver-un-evento-en-el-registro-de-eventos-de-aplicacion/
+  - Errores
+    - https://www.jesusninoc.com/02/09/tratamiento-de-errores-en-powershell/
+    - https://www.jesusninoc.com/02/11/mostrar-un-mensaje-de-error-personalizado-en-powershell/
   - ConvertTo-SecureString
     - https://www.jesusninoc.com/02/19/ejercicios-de-powershell-uso-y-manipulacion-de-credenciales/
   - Colecciones
