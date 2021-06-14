@@ -33,14 +33,15 @@
 # 1. Aplicaciones Web
 
 ## Introducción
+* https://www.jesusninoc.com/10/07/crear-un-cliente-y-un-servidor-tcpip-con-powershell/
 * https://www.jesusninoc.com/11/10/realizar-conexiones-tcp-udp-con-powershell/
 * https://www.jesusninoc.com/invoke-webrequest/
 * https://www.jesusninoc.com/wget/
 * https://www.jesusninoc.com/wordpress/
-* https://www.jesusninoc.com/06/07/como-funciona-un-servidor-web-explicado-desde-powershell/
-* https://www.jesusninoc.com/06/05/crear-un-servidor-web-con-un-servicio-que-permita-leer-un-codigo-qr-desde-powershell/
 
 ## Servidores web
+* https://www.jesusninoc.com/06/07/como-funciona-un-servidor-web-explicado-desde-powershell/
+* https://www.jesusninoc.com/06/05/crear-un-servidor-web-con-un-servicio-que-permita-leer-un-codigo-qr-desde-powershell/
 * https://www.jesusninoc.com/02/15/crear-un-sitio-en-iis-con-powershell/
 
 ## HTTP
