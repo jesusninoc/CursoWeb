@@ -107,6 +107,7 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 
 ## Invoke-RestMethod
 Invoke-RestMethod es básicamente un cmdlet contenedor entorno a Invoke-WebRequest. Invoke-RestMethod realiza una conversión automática. Si la API que está consumiendo devuelve JSON, Invoke-RestMethod devolverá un objeto PowerShell que es el resultado de la conversión JSON.
+Invoke-RestMethod es mucho mejor para tratar con resultados XML y JSON, mientras que Invoke-WebRequest es mejor para tratar con resultados HTML directos.
 * https://www.jesusninoc.com/invoke-restmethod/
 
 ## Start-BitsTransfer
