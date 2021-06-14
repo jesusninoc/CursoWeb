@@ -10,6 +10,9 @@ Interfaces de programación de aplicaciones. Es una especificación formal de c�
 * https://www.jesusninoc.com/01/14/conocer-la-edad-de-una-persona-mediante-el-reconocimiento-optico-de-caracteres-y-el-analisis-de-imagenes-computer-vision-api-de-microsoft-azure/
 * https://docs.microsoft.com/es-es/azure/cognitive-services/authentication?tabs=powershell
 
+## Funcionamiento
+* https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api/_static/architecture.png?view=aspnetcore-5.0
+
 ## Ejercicios de PowerShell
 - Llamada al API de algún servicio
   - https://www.jesusninoc.com/03/13/exportar-e-importar-un-objeto-json-que-se-encuentra-en-una-web-desde-powershell/
