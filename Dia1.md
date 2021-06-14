@@ -24,7 +24,7 @@
     - https://www.jesusninoc.com/08/02/2-programacion-en-powershell-nivel-avanzado/#Hash_tables
     - https://www.jesusninoc.com/08/02/2-programacion-en-powershell-nivel-avanzado/#Enumeraciones
     - https://www.jesusninoc.com/08/02/2-programacion-en-powershell-nivel-avanzado/
-  - Try/catch
+  - Try/catch (una excepción es cualquier evento que ocurre durante la ejecución de un programa que interrumpe el flujo normal de ejecución
     - https://www.jesusninoc.com/02/10/tratamiento-de-excepciones-en-powershell/
   - Objetos
     - https://www.jesusninoc.com/07/02/2-programacion-en-powershell/#Objetos
