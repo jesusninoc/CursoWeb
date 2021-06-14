@@ -113,5 +113,15 @@ Invoke-RestMethod es mucho mejor para tratar con resultados XML y JSON, mientras
 ## Start-BitsTransfer
 * https://www.jesusninoc.com/05/20/descargar-las-imagenes-de-una-pagina-web/
 
+## Ejercicios de PowerShell
+- Leer varios ficheros y pasar OCR
+- Crear un servidor Web en PowerShell
+  - https://www.jesusninoc.com/02/15/crear-un-sitio-en-iis-con-powershell/
+- Peticiones con Invoke-WebRequest
+- Fiddler y sesiones de las cotizaciones
+  - https://www.jesusninoc.com/09/27/arrancar-una-aplicacion-remotamente-desde-powershell-teniendo-habilitado-device-portal/
+  - https://www.jesusninoc.com/10/01/listar-el-contenido-de-un-directorio-remotamente-desde-powershell-teniendo-habilitado-device-portal/
+  - https://www.jesusninoc.com/06/04/enviar-datos-a-un-formulario-de-google-docs-desde-powershell-pasos-version-04-06-2021/
+
 ## Ejercicios de PowerShell (propuestos)
 - Instalar Visual Studio
