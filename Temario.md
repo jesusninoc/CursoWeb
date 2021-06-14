@@ -136,6 +136,7 @@ WSDL son las siglas de web service description language o lenguaje de descripci�
 WSDL se basa en el lenguaje XML (extensible markup language) o lenguaje de marcado extensible, así como en el lenguaje XML Schema (XSD). En otras palabras, WSDL utiliza elementos XML.
 
 ## New-WebServiceProxy
+Los clientes invocan a los métodos de los prosees como si estuvieran implementados en local.
 * https://www.jesusninoc.com/05/31/usar-soap-desde-powershell-wsdl/
 
 ## Ejercicios
