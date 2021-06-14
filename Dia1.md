@@ -18,6 +18,8 @@
   - ConvertTo-SecureString
     - https://www.jesusninoc.com/02/19/ejercicios-de-powershell-uso-y-manipulacion-de-credenciales/
   - Colecciones
+    - https://www.jesusninoc.com/08/02/2-programacion-en-powershell-nivel-avanzado/#Hash_tables
+    - https://www.jesusninoc.com/08/02/2-programacion-en-powershell-nivel-avanzado/#Enumeraciones
     - https://www.jesusninoc.com/08/02/2-programacion-en-powershell-nivel-avanzado/
   - Try/catch
     - https://www.jesusninoc.com/02/10/tratamiento-de-excepciones-en-powershell/
