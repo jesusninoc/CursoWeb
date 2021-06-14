@@ -140,6 +140,7 @@ WSDL se basa en el lenguaje XML (extensible markup language) o lenguaje de marca
 
 ## Ejercicios
 - Comprender cómo funciona un servicio web
+  * https://es.wikipedia.org/wiki/Servicio_web#/media/Archivo:Webservices-en.svg
 - Crear un servicio web
   * https://www.jesusninoc.com/02/26/convertir-un-fichero-xml-en-json-desde-php-y-utilizarlo-desde-powershell/ 
 - Crear un servicio web en .NET
