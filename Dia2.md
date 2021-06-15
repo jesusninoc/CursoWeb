@@ -58,13 +58,6 @@ REST (Transferencia de Estado Representacional). Define la arquitectura usada en
 - Esquemas. Muestra una lista de todas las propiedades y parámetros de entrada que la API REST puede aceptar y devolver.
 - Clases de controlador. El lugar donde administras las partes móviles de la API REST.
 
-## Ejercicios
-- Crear un servicio REST en Visual Studio
-  - https://www.jesusninoc.com/06/06/crear-un-servicio-web-asp-net-web-api-rest-con-microsoft-visual-studio-y-despues-utilizarlo-desde-powershell/
-  - https://www.jesusninoc.com/06/06/crear-un-servicio-web-asp-net-web-api-rest-con-microsoft-visual-studio-anadir-varios-metodos-listar-y-eliminar-y-despues-utilizarlo-desde-powershell/
-- Crear un servicio REST con Microsoft Visual Studio, publicarlo en un servidor IIS local
-  - https://www.jesusninoc.com/06/06/crear-un-servicio-web-asp-net-web-api-rest-con-microsoft-visual-studio-anadir-varios-metodos-listar-y-eliminar-publicarlo-en-un-servidor-iis-local-y-despues-llamarlo-desde-powershell/
-
 ## Ejercicios de PowerShell
 - Llamar a REST en WordPress
   - https://www.jesusninoc.com/03/30/ver-categorias-de-wordpress-json-api-desde-powershell-y-mostrar-el-resultado-en-una-tabla-interactiva/
