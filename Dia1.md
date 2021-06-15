@@ -1,7 +1,6 @@
 # 0. Presentación
 - Tres horas por tema (introducción, configuraciones, ejercicios resueltos por mi, tiempo para hacer ejercicios)
-- Aplicaciones Web y servicios (la diferencia entre una aplicación web y un servicio web es que la aplicación web es un sistema de gestión diseñado para ser usado por humanos, mientras que un servicio web es un sistema diseñado para ser usado por otros programas)
-- Otros conceptos que he visto en los scripts pero que no son web:
+- Conceptos que he visto en los scripts pero que no son web:
   - OCR (bucle y ver palabras mal escritas)
     - https://www.jesusninoc.com/01/06/resolver-el-captcha-de-amazon/
     - https://www.jesusninoc.com/02/09/aclarar-una-imagen-utilizando-imagemagick-y-convertir-a-texto-con-tesseract/
@@ -35,6 +34,7 @@
 -----------
 
 # 1. Aplicaciones Web
+Aplicaciones Web y servicios (la diferencia entre una aplicación web y un servicio web es que la aplicación web es un sistema de gestión diseñado para ser usado por humanos, mientras que un servicio web es un sistema diseñado para ser usado por otros programas)
 
 ## Introducción
 * https://www.jesusninoc.com/10/07/crear-un-cliente-y-un-servidor-tcpip-con-powershell/
