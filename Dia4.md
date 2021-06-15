@@ -18,13 +18,13 @@ La diferencia principal es que el servicio Web facilita que dos máquinas intera
 ## RESTful API
 RESTful API es el sucesor de métodos anteriores como SOAP y WSDL cuya implementación y uso son un poco mas complejos y requieren mayores recursos y especificaciones al ser usados.
 
-## Principios rectores de REST
-- Cliente-servidor : al separar las preocupaciones de la interfaz de usuario de las preocupaciones de almacenamiento de datos, mejoramos la portabilidad de la interfaz de usuario en múltiples plataformas y mejoramos la escalabilidad al simplificar los componentes del servidor.
-- Sin estado : cada solicitud del cliente al servidor debe contener toda la información necesaria para comprender la solicitud y no puede aprovechar ningún contexto almacenado en el servidor. Por lo tanto, el estado de la sesión se mantiene completamente en el cliente.
-- Se puede almacenar en caché: las restricciones de caché requieren que los datos dentro de una respuesta a una solicitud se etiqueten implícita o explícitamente como almacenables en caché o no almacenables en caché. Si una respuesta se puede almacenar en caché, la caché de un cliente tiene derecho a reutilizar esos datos de respuesta para solicitudes posteriores equivalentes.
-- Interfaz uniforme : al aplicar el principio de generalidad de la ingeniería de software a la interfaz del componente, se simplifica la arquitectura general del sistema y se mejora la visibilidad de las interacciones. Para obtener una interfaz uniforme, se necesitan múltiples restricciones arquitectónicas para guiar el comportamiento de los componentes. REST se define por cuatro restricciones de interfaz: identificación de recursos; manipulación de recursos a través de representaciones; mensajes autodescriptivos; e hipermedia como motor del estado de la aplicación.
-- Sistema en capas: el estilo de sistema en capas permite que una arquitectura se componga de capas jerárquicas al restringir el comportamiento de los componentes de manera que cada componente no pueda "ver" más allá de la capa inmediata con la que están interactuando.
-- Código a pedido (opcional) : REST permite ampliar la funcionalidad del cliente descargando y ejecutando código en forma de subprogramas o scripts. Esto simplifica a los clientes al reducir la cantidad de funciones que deben implementarse previamente.
+## Se considera que una aplicación es RESTful si cumple con seis pautas arquitectónicas. Una aplicación de RESTful debe tener lo siguiente:
+- Una arquitectura cliente-servidor compuesta por clientes, servidores y recursos.
+- Una comunicación cliente-servidor sin estado, lo cual significa que el contenido de los clientes no se almacena en el servidor entre las solicitudes, sino que la información sobre el estado de la sesión queda en el cliente.
+- Datos que pueden almacenarse en caché para eliminar la necesidad de algunas interacciones cliente-servidor.
+- Una interfaz uniforme entre elementos para que la información se transfiera de forma estandarizada, en lugar de ser específica para las necesidades de cierta aplicación. Roy Fielding, el creador de REST, lo describe como "la característica principal que distingue el estilo arquitectónico de REST de los demás estilos basados en la red".
+- Una restricción del sistema en capas, en el que las interacciones cliente-servidor pueden estar mediadas por capas jerárquicas.
+Código según se solicite, lo que permite que los servidores amplíen las funciones de un cliente al transferir el código ejecutable (esto también reduce la visibilidad, así que es una pauta opcional).
 
 ## Ejercicios
 - Crear un servicio REST API en Visual Studio
