@@ -25,6 +25,7 @@ Los clientes invocan a los métodos de los prosees como si estuvieran implementa
 
 ## Ejercicios
 - Comprender cómo funciona un servicio web
+
 En la arquitectura de servicios web existen tres partes: proveedor de servicios web, el que pide el servicio web y el publicador. El proveedor de servicios envía al publicador del servicio un fichero WSDL con la definición del servicio web. El que pide el servicio contacta con el publicador y descubre quién es el proveedor (protocolo WSDL) y contacta con el proveedor (protocolo SOAP). El proveedor valida la petición de servicio y envía el dato estructurado en formato XML utilizando el protocolo SOAP. El fichero XML es validado de nuevo por el que pide el servicio utilizando un fichero XSD.
   * https://es.wikipedia.org/wiki/Servicio_web#/media/Archivo:Webservices-en.svg
 - Crear un servicio web
