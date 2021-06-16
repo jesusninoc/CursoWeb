@@ -1,5 +1,4 @@
 # 0. Presentación
-- Tres horas por tema (introducción, configuraciones, ejercicios resueltos por mi, tiempo para hacer ejercicios)
 - Conceptos que he visto en los scripts pero que no son web:
   - OCR (bucle y ver palabras mal escritas)
     - https://www.jesusninoc.com/01/06/resolver-el-captcha-de-amazon/
