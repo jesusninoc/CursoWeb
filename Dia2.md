@@ -33,6 +33,7 @@ Aplicaciones Web y servicios (la diferencia entre una aplicación web y un servi
 * https://www.jesusninoc.com/06/28/temperatura-maxima-en-barcelona-para-hoy/
 #### GET con valores
 * https://www.jesusninoc.com/02/01/get-streets-and-coordinates/
+* https://www.jesusninoc.com/06/20/detectar-el-formulario-de-busquedas-de-una-pagina-web-y-enviar-una-busqueda-al-formulario-desde-powershell-con-webclient-system-net-webclient/
 #### Detectar valores GET
 * https://www.jesusninoc.com/09/23/detectar-el-formulario-de-busquedas-de-yahoo-y-enviar-una-busqueda-al-formulario/
 #### POST
