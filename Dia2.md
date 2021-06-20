@@ -31,7 +31,6 @@ Aplicaciones Web y servicios (la diferencia entre una aplicación web y un servi
 * https://www.jesusninoc.com/01/19/metodos-que-se-pueden-utilizar-en-solicitudes-web-en-powershell/
 #### GET
 * https://www.jesusninoc.com/06/28/temperatura-maxima-en-barcelona-para-hoy/
-* https://www.jesusninoc.com/10/12/saber-si-un-nombre-es-de-hombre-o-mujer-con-powershell/
 #### GET con valores
 * https://www.jesusninoc.com/02/01/get-streets-and-coordinates/
 #### Detectar valores GET
