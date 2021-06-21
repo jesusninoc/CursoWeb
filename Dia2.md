@@ -12,7 +12,7 @@
 -----------
 
 # 1. Aplicaciones Web
-Aplicaciones Web y servicios (la diferencia entre una aplicación web y un servicio web es que la aplicación web es un sistema de gestión diseñado para ser usado por humanos, mientras que un servicio web es un sistema diseñado para ser usado por otros programas)
+Aplicaciones Web y servicios (la diferencia entre una aplicación web y un servicio web es que la aplicación web es un sistema de gestión diseñado para ser usado por humanos, mientras que un servicio web es un sistema diseñado para ser usado por otras aplicaciones o sistemas)
 
 ## Introducción
 * https://www.jesusninoc.com/10/07/crear-un-cliente-y-un-servidor-tcpip-con-powershell/
