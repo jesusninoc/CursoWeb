@@ -25,7 +25,6 @@ Aplicaciones Web y servicios (la diferencia entre una aplicación web y un servi
 ## Servidores web
 * https://www.jesusninoc.com/06/07/como-funciona-un-servidor-web-explicado-desde-powershell/
 * https://www.jesusninoc.com/06/05/crear-un-servidor-web-con-un-servicio-que-permita-leer-un-codigo-qr-desde-powershell/
-* https://www.jesusninoc.com/02/15/crear-un-sitio-en-iis-con-powershell/
 
 #### Ejercicios de PowerShell
 - Crear un servidor Web en PowerShell
