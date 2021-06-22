@@ -16,6 +16,7 @@ Aplicaciones Web y servicios (la diferencia entre una aplicación web y un servi
 
 ## Introducción
 * https://www.jesusninoc.com/10/07/crear-un-cliente-y-un-servidor-tcpip-con-powershell/
+* https://www.jesusninoc.com/06/22/crear-un-cliente-y-un-servidor-tcp-ip-que-recibe-una-sola-peticion-con-powershell-hacerlo-de-forma-simple/
 * https://www.jesusninoc.com/11/10/realizar-conexiones-tcp-udp-con-powershell/
 * https://www.jesusninoc.com/invoke-webrequest/
 * https://www.jesusninoc.com/wget/
