@@ -26,14 +26,14 @@ RESTful API es el sucesor de métodos anteriores como SOAP y WSDL cuya implement
 - Una restricción del sistema en capas, en el que las interacciones cliente-servidor pueden estar mediadas por capas jerárquicas.
 Código según se solicite, lo que permite que los servidores amplíen las funciones de un cliente al transferir el código ejecutable (esto también reduce la visibilidad, así que es una pauta opcional).
 
-## Ejercicios
+#### Ejercicios
 - Crear un servicio REST API en Visual Studio
   - https://www.jesusninoc.com/06/06/crear-un-servicio-web-asp-net-web-api-rest-con-microsoft-visual-studio-y-despues-utilizarlo-desde-powershell/
   - https://www.jesusninoc.com/06/06/crear-un-servicio-web-asp-net-web-api-rest-con-microsoft-visual-studio-anadir-varios-metodos-listar-y-eliminar-y-despues-utilizarlo-desde-powershell/
 - Crear un servicio REST API con Microsoft Visual Studio, publicarlo en un servidor IIS local
   - https://www.jesusninoc.com/06/06/crear-un-servicio-web-asp-net-web-api-rest-con-microsoft-visual-studio-anadir-varios-metodos-listar-y-eliminar-publicarlo-en-un-servidor-iis-local-y-despues-llamarlo-desde-powershell/
 
-## Ejercicios de PowerShell
+#### Ejercicios de PowerShell
 - Llamada al API de algún servicio
   - https://www.jesusninoc.com/03/13/exportar-e-importar-un-objeto-json-que-se-encuentra-en-una-web-desde-powershell/
   - https://www.jesusninoc.com/rutinas2.html
