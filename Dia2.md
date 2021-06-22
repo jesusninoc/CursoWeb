@@ -1,5 +1,8 @@
 # 0. Presentación
 - Conceptos que he visto en los scripts pero que no son web:
+  - Crear e importar dll
+    - https://www.jesusninoc.com/06/08/crear-compilar-y-ejecutar-una-dll-con-microsoft-visual-studio-c-y-utilizarla-desde-powershell/
+    - https://www.jesusninoc.com/11/28/crear-compilar-y-ejecutar-una-dll-con-microsoft-visual-c-que-abre-notepad-desde-powershell/
   - Try/catch (una excepción es cualquier evento que ocurre durante la ejecución de un programa que interrumpe el flujo normal de ejecución
     - https://www.jesusninoc.com/02/10/tratamiento-de-excepciones-en-powershell/
   - Objetos
