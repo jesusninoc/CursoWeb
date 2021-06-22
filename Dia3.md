@@ -40,6 +40,7 @@ Los desarrolladores de páginas Web, o administradores de sitios Web, desarrolla
 ### Cabeceras
 * https://www.jesusninoc.com/01/18/subir-un-video-a-azure-video-indexer/
 ### Sesiones
+Un token de sesión es un identificador único que está generado y enviado desde un servidor a un cliente para identificar la sesión de interacción actual. El cliente envía el token como una cookie HTTP y/o lo envía como parámetro en GET o POST. La razón para utilizar tokens de sesión es que el cliente sólo tiene que manejar el identificador—toda la información de sesión está almacenada en el servidor (normalmente en una base de datos, al cual el cliente no tiene acceso directo) enlazada a aquel identificador. Ejemplos de los nombres que algunos lenguajes de programación utilizan cuándo se nombra su cookie HTTP son: JSESSIONID (JSP),PHPSESSID (PHP), CGISESSID (CGI), y ASPSESSIONID (ASP).
 * https://www.jesusninoc.com/02/14/almacenar-la-posicion-gps-en-una-variable-de-sesion-en-php/
 * https://www.jesusninoc.com/02/26/utilizar-sesiones-de-las-aplicaciones-web-en-powershell/
 ### Where
