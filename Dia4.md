@@ -15,6 +15,13 @@ La diferencia principal es que el servicio Web facilita que dos máquinas intera
 ## Funcionamiento
 * https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api/_static/architecture.png?view=aspnetcore-5.0
 
+## ¿Que es REST o RESTful como WebService?
+REST se define como Transferencia de estado representacional en inglés (REpresentational State Transfer).
+
+REST no define tantos estándares como SOAP. REST es para exponer las API públicas (es decir, la API de Facebook, la API de Google Maps) a través de Internet para manejar las operaciones de CRUD en los datos. REST se enfoca en acceder a recursos nombrados a través de una única interfaz consistente.
+
+RESTful hace referencia a un servicio web que implementa la arquitectura REST.
+
 ## RESTful API
 RESTful API es el sucesor de métodos anteriores como SOAP y WSDL cuya implementación y uso son un poco mas complejos y requieren mayores recursos y especificaciones al ser usados.
 
