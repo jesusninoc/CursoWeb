@@ -26,6 +26,10 @@ Aplicaciones Web y servicios (la diferencia entre una aplicación web y un servi
 * https://www.jesusninoc.com/06/05/crear-un-servidor-web-con-un-servicio-que-permita-leer-un-codigo-qr-desde-powershell/
 * https://www.jesusninoc.com/02/15/crear-un-sitio-en-iis-con-powershell/
 
+#### Ejercicios de PowerShell
+- Crear un servidor Web en PowerShell
+  - https://www.jesusninoc.com/02/15/crear-un-sitio-en-iis-con-powershell/
+
 ## HTTP
 ### Métodos
 * https://www.jesusninoc.com/01/19/metodos-que-se-pueden-utilizar-en-solicitudes-web-en-powershell/
@@ -98,11 +102,8 @@ Invoke-RestMethod es mucho mejor para tratar con resultados XML y JSON, mientras
 ## Start-BitsTransfer
 * https://www.jesusninoc.com/05/20/descargar-las-imagenes-de-una-pagina-web/
 
-## Ejercicios de PowerShell
-- Leer varios ficheros y pasar OCR
-- Crear un servidor Web en PowerShell
-  - https://www.jesusninoc.com/02/15/crear-un-sitio-en-iis-con-powershell/
-- Peticiones con Invoke-WebRequest
+#### Ejercicios de PowerShell
+- Peticiones con Invoke-WebRequest, Invoke-RestMethod y Start-BitsTransfer
 - Fiddler y sesiones de las cotizaciones
   - https://www.jesusninoc.com/09/27/arrancar-una-aplicacion-remotamente-desde-powershell-teniendo-habilitado-device-portal/
   - https://www.jesusninoc.com/10/01/listar-el-contenido-de-un-directorio-remotamente-desde-powershell-teniendo-habilitado-device-portal/
