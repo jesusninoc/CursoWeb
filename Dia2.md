@@ -30,7 +30,7 @@ Aplicaciones Web y servicios (la diferencia entre una aplicación web y un servi
 * https://www.jesusninoc.com/06/05/crear-un-servidor-web-con-un-servicio-que-permita-leer-un-codigo-qr-desde-powershell/
 
 #### Ejercicios de PowerShell
-- Crear un servidor Web en PowerShell
+- Crear varios sitios web para varios clientes cuyos nombres están en un fichero
   - https://www.jesusninoc.com/02/15/crear-un-sitio-en-iis-con-powershell/
 
 ## HTTP
