@@ -40,3 +40,6 @@ Código según se solicite, lo que permite que los servidores amplíen las funci
   - https://api.spacexdata.com/v2/
   - https://www.jesusninoc.com/02/07/falcon-heavy-spacex-data-rest-api/
   - https://www.jesusninoc.com/01/14/ejercicios-de-powershell-crear-usuarios-con-nombres-aleatorios-utilizando-un-api-que-devuelve-el-resultado-en-formato-json/
+
+## GraphQL
+* https://www.jesusninoc.com/06/01/realizar-una-peticion-graphql-desde-powershell/
