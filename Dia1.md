@@ -30,5 +30,5 @@
   - Sistema de archivos
     - https://www.jesusninoc.com/07/04/4-gestion-del-sistema-de-archivos-en-powershell/
 
-## Ejercicios de PowerShell (propuestos)
+#### Ejercicios de PowerShell (propuestos)
 - Instalar Visual Studio
