@@ -141,3 +141,4 @@ REST (Transferencia de Estado Representacional). Define la arquitectura usada en
 - SOAP es un protocolo y REST es una arquitectura
 - WSDL para exponer métodos y REST expone mediante URIs
 - En REST no hay fichero WSDL
+- SOAP solo XML y REST permite JSON, XML, texto plano, etc.
