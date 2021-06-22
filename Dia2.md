@@ -33,21 +33,7 @@ Aplicaciones Web y servicios (la diferencia entre una aplicación web y un servi
 - Crear un sitio web
   - https://www.jesusninoc.com/02/15/crear-un-sitio-en-iis-con-powershell/
 - Crear varios sitios web para varios clientes cuyos nombres están en un fichero
- ```PowerShell
- Import-Module webadministration
-
-Set-Location IIS:\AppPools\
-
-$numero = 81
-
-foreach($valor in Get-Content C:\Users\juan\clientes.txt)
-{
-    $web = New-Item C:\web\$valor –ItemType directory -Force
-    "<html>hola "+$Valor+"</html>" | Out-File C:\web\$valor\index.html
-    $Website = New-Website -Name $valor -HostHeader "" -Port $numero -PhysicalPath $web -ApplicationPool "DefaultAppPool"
-    $numero = $numero + 1
-}
- ```
+  - https://www.jesusninoc.com/06/22/ejercicios-de-powershell-crear-varios-sitios-web-para-varios-clientes-cuyos-nombres-estan-en-un-fichero/ 
 
 ## HTTP
 ### Métodos
