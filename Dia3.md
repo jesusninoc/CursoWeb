@@ -122,8 +122,6 @@ Los clientes invocan a los métodos de los prosees como si estuvieran implementa
 - Leer datos de un servicio Web creado por nosotros
   * https://www.jesusninoc.com/06/03/crear-un-servicio-web-asp-net-asmx-con-microsoft-visual-studio-y-despues-utilizarlo-desde-powershell-con-new-webserviceproxy/
 
-----------------
-
 ## REST
 REST (Transferencia de Estado Representacional). Define la arquitectura usada en una red, usa como base el protocolo HTTP y nos sirve para generar datos y operaciones devolviendo datos en formato JSON o XML. Puesto que usa HTTP como base, todos los objetos se manipulan a través de una URL. Como alternativa a los servicios basados en SOAP, existe REST. No siguen el estándar SOAP y no están forzados a utilizar XML para representar sus mensajes y su interfaz. Se usa REST, un formato más ligero y flexible.
 * https://www.jesusninoc.com/03/08/ver-categorias-de-wordpress-json-api-desde-powershell/
@@ -138,3 +136,8 @@ REST (Transferencia de Estado Representacional). Define la arquitectura usada en
 #### Ejercicios de PowerShell
 - Llamar a REST en WordPress
   - https://www.jesusninoc.com/03/30/ver-categorias-de-wordpress-json-api-desde-powershell-y-mostrar-el-resultado-en-una-tabla-interactiva/
+
+## Diferencias entre SOAP y REST
+- SOAP es un protocolo y REST es una arquitectura
+- WSDL para exponer métodos y REST expone mediante URIs
+- En REST no hay fichero WSDL
