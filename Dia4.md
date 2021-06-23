@@ -1,7 +1,5 @@
 # Repaso temario
 
-## Sesiones
-* https://www.jesusninoc.com/02/26/utilizar-sesiones-de-las-aplicaciones-web-en-powershell/#Codigo_en_PHP_que_cierra_una_sesion_iniciada_anteriormente_tercerophp
 ## DocuWare
 * https://developer.docuware.com/
 * https://developer.docuware.com/dotNet/66b2ed1e-2aef-452a-97cd-5014bbf0242b.html
@@ -19,6 +17,10 @@ $bar = [DocuWare.Platform.ServerClient.Content.BarCodeZone]::new()
 $bar.Value
 $bar.H
 ```
+## Sesiones
+* https://www.jesusninoc.com/02/26/utilizar-sesiones-de-las-aplicaciones-web-en-powershell/#Codigo_en_PHP_que_cierra_una_sesion_iniciada_anteriormente_tercerophp
+## Cookies
+* https://www.jesusninoc.com/06/09/autenticarse-en-el-punto-de-acceso-mediante-el-usuario-y-la-contrasena-autorizacion-authorization-de-tipo-basic-enviada-por-cookie/
 ## Llamar a un servicio Web
 * https://www.jesusninoc.com/06/23/diferentes-formas-de-llamar-a-un-servicio-web-desde-powershell/
 
