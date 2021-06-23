@@ -19,6 +19,7 @@ $bar.H
 ```
 ## Sesiones
 * https://www.jesusninoc.com/02/26/utilizar-sesiones-de-las-aplicaciones-web-en-powershell/#Codigo_en_PHP_que_cierra_una_sesion_iniciada_anteriormente_tercerophp
+* https://www.jesusninoc.com/06/23/utilizar-sesiones-web-en-powershell-desde-un-powershell-crear-una-sesion-almacenarla-en-un-fichero-y-despues-abrir-otro-powershell-e-importar-la-sesion-guardada/
 ## Cookies
 * https://www.jesusninoc.com/06/09/autenticarse-en-el-punto-de-acceso-mediante-el-usuario-y-la-contrasena-autorizacion-authorization-de-tipo-basic-enviada-por-cookie/
 ## Llamar a un servicio Web
