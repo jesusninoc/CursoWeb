@@ -2,6 +2,23 @@
 
 ## Sesiones
 * https://www.jesusninoc.com/02/26/utilizar-sesiones-de-las-aplicaciones-web-en-powershell/#Codigo_en_PHP_que_cierra_una_sesion_iniciada_anteriormente_tercerophp
+## DocuWare
+* https://developer.docuware.com/
+* https://developer.docuware.com/dotNet/66b2ed1e-2aef-452a-97cd-5014bbf0242b.html
+* https://docs.microsoft.com/es-es/nuget/consume-packages/install-use-packages-visual-studio
+* https://developer.docuware.com/dotNet_CodeExamples/8ecbfe35-9182-4acc-833e-ac0f1857347e.html
+```PowerShell
+[Reflection.Assembly]::LoadFile("C:\Users\juan\.nuget\packages\docuware.platform.serverclient\12.2.1\lib\netstandard2.0\DocuWare.Platform.ServerClient.dll")
+[Reflection.Assembly]::LoadFile("C:\Users\juan\.nuget\packages\docuware.restclient\10.5.358704\lib\netcoreapp3.1\DocuWare.RestClient.dll")
+[Reflection.Assembly]::LoadFile("C:\Users\juan\.nuget\packages\docuware.uritemplates\10.5.358704\lib\netcoreapp3.1\DocuWare.UriTemplates.dll")
+[Reflection.Assembly]::LoadFile("C:\Users\juan\.nuget\packages\docuware.platform.serverclient.extensions\11.0.2\lib\netstandard2.0\DocuWare.Platform.ServerClient.Extensions.dll")
+[Reflection.Assembly]::LoadFile("C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Runtime.dll")
+$docu = [DocuWare.Platform.ServerClient.ServiceConnection]::Create("https://_CVG_.docuware.cloud/docuware/platform/Account/Logon", "admin", "admin")
+
+$bar = [DocuWare.Platform.ServerClient.Content.BarCodeZone]::new()
+$bar.Value
+$bar.H
+```
 
 -----------------
 
