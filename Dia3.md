@@ -100,3 +100,8 @@ REST (Transferencia de Estado Representacional). Define la arquitectura usada en
 - WSDL para exponer métodos y REST expone mediante URIs
 - En REST no hay fichero WSDL
 - SOAP solo XML y REST permite JSON, XML, texto plano, etc.
+
+#### Ejercicios propuestos
+- Crear un servicio REST API en Visual Studio
+  - https://www.jesusninoc.com/06/06/crear-un-servicio-web-asp-net-web-api-rest-con-microsoft-visual-studio-y-despues-utilizarlo-desde-powershell/
+  - https://www.jesusninoc.com/06/06/crear-un-servicio-web-asp-net-web-api-rest-con-microsoft-visual-studio-anadir-varios-metodos-listar-y-eliminar-y-despues-utilizarlo-desde-powershell/
