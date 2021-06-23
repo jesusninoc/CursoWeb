@@ -2,12 +2,12 @@
 Aplicaciones Web y servicios (la diferencia entre una aplicación web y un servicio web es que la aplicación web es un sistema de gestión diseñado para ser usado por humanos, mientras que un servicio web es un sistema diseñado para ser usado por otras aplicaciones o sistemas).
 
 ## Invoke-WebRequest
+Obtiene contenido de una página web en Internet.
 ## Invoke-RestMethod
 Invoke-RestMethod es básicamente un cmdlet contenedor entorno a Invoke-WebRequest. Invoke-RestMethod realiza una conversión automática. Si la API que está consumiendo devuelve JSON, Invoke-RestMethod devolverá un objeto PowerShell que es el resultado de la conversión JSON.
 Invoke-RestMethod es mucho mejor para tratar con resultados XML y JSON, mientras que Invoke-WebRequest es mejor para tratar con resultados HTML directos.
-* https://www.jesusninoc.com/invoke-restmethod/
 ## Start-BitsTransfer
-* https://www.jesusninoc.com/05/20/descargar-las-imagenes-de-una-pagina-web/
+Cmdlet crea un trabajo de transferencia del Servicio de transferencia inteligente en segundo plano para transferir uno o más archivos entre un cliente y un servidor.
 
 #### Ejercicios propuestos
 - Crear un servicio web en .NET
