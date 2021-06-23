@@ -42,7 +42,7 @@ WSDL se basa en el lenguaje XML (extensible markup language) o lenguaje de marca
 Los clientes invocan a los métodos de los prosees como si estuvieran implementados en local.
 * https://www.jesusninoc.com/05/31/usar-soap-desde-powershell-wsdl/
 
-### Ejercicios
+#### Ejercicios
 - Comprender cómo funciona un servicio web. En la arquitectura de servicios web existen tres partes: proveedor de servicios web, el que pide el servicio web y el publicador. El proveedor de servicios envía al publicador del servicio un fichero WSDL con la definición del servicio web. El que pide el servicio contacta con el publicador y descubre quién es el proveedor (fichero WSDL) y contacta con el proveedor (protocolo SOAP). El proveedor valida la petición de servicio y envía el dato estructurado en formato XML utilizando el protocolo SOAP. El fichero XML es validado de nuevo por el que pide el servicio utilizando un fichero XSD.
   * https://es.wikipedia.org/wiki/Servicio_web#/media/Archivo:Webservices-en.svg
 - Crear un servicio web que diga la hora actual
@@ -62,7 +62,7 @@ public string Hora()
 - Crear una aplicación Web en IIS desde PowerShell desarrollada con ASP.NET (ASMX)
   * https://www.jesusninoc.com/06/05/crear-una-aplicacion-web-en-iis-desde-powershell-desarrollada-con-asp-net-asmx-y-despues-utilizar-un-metodo-con-new-webserviceproxy/
 
-### Ejercicios de PowerShell
+#### Ejercicios de PowerShell
 - Realizar petición tipo POST contra servicio Web online
   * https://www.jesusninoc.com/06/03/realizar-peticion-tipo-post-contra-servicio-web-online/
 - Realizar petición tipo POST contra servicio Web
