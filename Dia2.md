@@ -113,7 +113,7 @@ Invoke-RestMethod es mucho mejor para tratar con resultados XML y JSON, mientras
 ## Start-BitsTransfer
 * https://www.jesusninoc.com/05/20/descargar-las-imagenes-de-una-pagina-web/
 
-#### Ejercicios
+#### Ejercicios propuestos
 - Crear un servicio web en .NET
   * https://www.jesusninoc.com/06/03/crear-un-servicio-web-asp-net-asmx-con-microsoft-visual-studio/
 - Crear un servicio Web ASP.NET (ASMX) con Microsoft Visual Studio, publicarlo en un servidor IIS local
