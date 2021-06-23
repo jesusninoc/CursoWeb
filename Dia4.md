@@ -1,3 +1,10 @@
+# Repaso temario
+
+## Sesiones
+* https://www.jesusninoc.com/02/26/utilizar-sesiones-de-las-aplicaciones-web-en-powershell/#Codigo_en_PHP_que_cierra_una_sesion_iniciada_anteriormente_tercerophp
+
+-----------------
+
 # 3. API
 
 ## Introducción
