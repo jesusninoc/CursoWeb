@@ -71,6 +71,8 @@ public string Hora()
   * https://www.jesusninoc.com/05/31/usar-soap-desde-powershell-wsdl/
 - Leer datos de un servicio Web creado por nosotros
   * https://www.jesusninoc.com/06/03/crear-un-servicio-web-asp-net-asmx-con-microsoft-visual-studio-y-despues-utilizarlo-desde-powershell-con-new-webserviceproxy/
+- Diferentes formas de llamar a un servicio Web desde PowerShell
+  * https://www.jesusninoc.com/06/23/diferentes-formas-de-llamar-a-un-servicio-web-desde-powershell/
 
 ## REST
 REST (Transferencia de Estado Representacional). Define la arquitectura usada en una red, usa como base el protocolo HTTP y nos sirve para generar datos y operaciones devolviendo datos en formato JSON o XML. Puesto que usa HTTP como base, todos los objetos se manipulan a través de una URL. Como alternativa a los servicios basados en SOAP, existe REST. No siguen el estándar SOAP y no están forzados a utilizar XML para representar sus mensajes y su interfaz. Se usa REST, un formato más ligero y flexible.
