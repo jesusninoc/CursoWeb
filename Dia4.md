@@ -19,6 +19,8 @@ $bar = [DocuWare.Platform.ServerClient.Content.BarCodeZone]::new()
 $bar.Value
 $bar.H
 ```
+## Llamar a un servicio Web
+* https://www.jesusninoc.com/06/23/diferentes-formas-de-llamar-a-un-servicio-web-desde-powershell/
 
 -----------------
 
