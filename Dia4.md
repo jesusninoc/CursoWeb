@@ -29,6 +29,8 @@ $bar.H
 
 # 3. API
 
+## Situación inicial: crear un sistema que permita devolver información en formato JSON sobre un proceso que se pide en la URL (http://localhost/notepad)
+
 ## Introducción
 Interfaces de programación de aplicaciones. Es una especificación formal de cómo un módulo de software se comunica con otro, es decir, es un conjunto de comandos, funciones y protocolos que permiten a los desarrolladores crear programas específicos para ciertos sistemas sin tener que escribir desde cero todo. Establece un protocolo abstracto de comunicación entre distintas aplicaciones, esto es que no necesite conocer el funcionamiento interno de la aplicación, sino un conjunto de llamadas y la estructura del resultado esperado.
 
@@ -61,8 +63,6 @@ RESTful API es el sucesor de métodos anteriores como SOAP y WSDL cuya implement
 - Una interfaz uniforme entre elementos para que la información se transfiera de forma estandarizada, en lugar de ser específica para las necesidades de cierta aplicación. Roy Fielding, el creador de REST, lo describe como "la característica principal que distingue el estilo arquitectónico de REST de los demás estilos basados en la red".
 - Una restricción del sistema en capas, en el que las interacciones cliente-servidor pueden estar mediadas por capas jerárquicas.
 Código según se solicite, lo que permite que los servidores amplíen las funciones de un cliente al transferir el código ejecutable (esto también reduce la visibilidad, así que es una pauta opcional).
-
-#### Resolver la siguiente situación: crear un sistema que permita devolver información en formato JSON sobre un proceso que se pide en la URL (http://localhost/notepad)
 
 #### Ejercicios
 - Crear un servicio REST API en Visual Studio
