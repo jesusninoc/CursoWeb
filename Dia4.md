@@ -35,6 +35,7 @@ La diferencia principal es que el servicio Web facilita que dos máquinas intera
 * https://docs.microsoft.com/es-es/azure/cognitive-services/authentication?tabs=powershell
 
 ## Situación inicial: crear un sistema que permita devolver información en formato JSON sobre un coche (http://localhost/coche)
+* https://www.jesusninoc.com/06/24/crear-un-sistema-en-powershell-que-permita-devolver-informacion-en-formato-json-sobre-un-coche/
 
 ## Funcionamiento web API
 * https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api/_static/architecture.png?view=aspnetcore-5.0
