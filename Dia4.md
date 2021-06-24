@@ -29,8 +29,6 @@ $bar.H
 
 # 3. API
 
-## Situación inicial: crear un sistema que permita devolver información en formato JSON sobre un proceso que se pide en la URL (http://localhost/notepad)
-
 ## Introducción
 Interfaces de programación de aplicaciones. Es una especificación formal de cómo un módulo de software se comunica con otro, es decir, es un conjunto de comandos, funciones y protocolos que permiten a los desarrolladores crear programas específicos para ciertos sistemas sin tener que escribir desde cero todo. Establece un protocolo abstracto de comunicación entre distintas aplicaciones, esto es que no necesite conocer el funcionamiento interno de la aplicación, sino un conjunto de llamadas y la estructura del resultado esperado.
 
@@ -43,7 +41,9 @@ La diferencia principal es que el servicio Web facilita que dos máquinas intera
 * https://www.jesusninoc.com/01/14/conocer-la-edad-de-una-persona-mediante-el-reconocimiento-optico-de-caracteres-y-el-analisis-de-imagenes-computer-vision-api-de-microsoft-azure/
 * https://docs.microsoft.com/es-es/azure/cognitive-services/authentication?tabs=powershell
 
-## Funcionamiento
+## Situación inicial: crear un sistema que permita devolver información en formato JSON sobre un proceso que se pide en la URL (http://localhost/notepad)
+
+## Funcionamiento web API
 * https://docs.microsoft.com/es-es/aspnet/core/tutorials/first-web-api/_static/architecture.png?view=aspnetcore-5.0
 
 ## ¿Que es REST o RESTful como WebService?
