@@ -62,6 +62,8 @@ RESTful API es el sucesor de métodos anteriores como SOAP y WSDL cuya implement
 - Una restricción del sistema en capas, en el que las interacciones cliente-servidor pueden estar mediadas por capas jerárquicas.
 Código según se solicite, lo que permite que los servidores amplíen las funciones de un cliente al transferir el código ejecutable (esto también reduce la visibilidad, así que es una pauta opcional).
 
+#### Resolver la siguiente situación: crear un sistema que permita devolver información en formato JSON sobre un proceso que se pide en la URL (http://localhost/notepad)
+
 #### Ejercicios
 - Crear un servicio REST API en Visual Studio
   - https://www.jesusninoc.com/06/06/crear-un-servicio-web-asp-net-web-api-rest-con-microsoft-visual-studio-y-despues-utilizarlo-desde-powershell/
